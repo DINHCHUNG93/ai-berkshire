@@ -1,3 +1,29 @@
+
+
+Dự án mã nguồn mở đang trending của “pháp sư” biến AI Agent thành đội ngũ phân tích đầu tư giá trị kiểu Berkshire Hathaway
+
+Trong khi phần lớn AI hiện nay chỉ trả lời những câu hỏi như “có nên mua cổ phiếu này không?”, thì AI Berkshire lại đi theo một hướng hoàn toàn khác: xây dựng một hệ thống nghiên cứu đầu tư đa agent mô phỏng tư duy của các nhà đầu tư giá trị hàng đầu thế giới.
+
+Dự án được xây dựng trên nền tảng Claude Code với kiến trúc multi-agent, cho phép nhiều AI agent cùng phân tích, phản biện và kiểm chứng lẫn nhau trước khi đưa ra kết luận cuối cùng. Framework này kết hợp phương pháp luận của bốn nhà đầu tư nổi tiếng gồm Warren Buffett, Charlie Munger, Duan Yongping và Li Lu.
+
+Một số khả năng nổi bật của AI Berkshire:
+
+• Phân tích doanh nghiệp theo mô hình đầu tư giá trị truyền thống.
+• Định giá doanh nghiệp và ước lượng vùng giá hợp lý.
+• Đọc và phân tích báo cáo tài chính, báo cáo lợi nhuận theo quý.
+• Tổ chức nhiều agent phản biện lẫn nhau để giảm thiên kiến và tăng độ tin cậy.
+• Hỗ trợ nghiên cứu chuyên sâu cho cổ phiếu Mỹ, Trung Quốc và nhiều thị trường khác.
+• Tích hợp trực tiếp với Claude Code thông qua hệ thống skill và command riêng. (Awesome Skills⁠￼)
+
+Điểm thú vị nhất của dự án là mục tiêu không phải dự đoán giá cổ phiếu ngắn hạn mà tập trung vào việc nâng cao chất lượng nghiên cứu và hiệu quả phân tích của nhà đầu tư dài hạn. Theo tác giả, AI chỉ đóng vai trò trợ lý nghiên cứu, còn quyết định đầu tư cuối cùng vẫn thuộc về con người.
+
+Nếu bạn quan tâm đến AI Agent, đầu tư giá trị hoặc muốn xây dựng một “Berkshire Hathaway thu nhỏ” chạy bằng AI, đây là một dự án rất đáng để khám phá.
+
+
+
+
+
+
 中文 | [English](README_EN.md)
 
 # AI Berkshire - AI 时代的价值投资研究框架
