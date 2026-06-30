@@ -20,6 +20,34 @@ Một số khả năng nổi bật của AI Berkshire:
 Nếu bạn quan tâm đến AI Agent, đầu tư giá trị hoặc muốn xây dựng một “Berkshire Hathaway thu nhỏ” chạy bằng AI, đây là một dự án rất đáng để khám phá.
 
 
+🚀 AI Berkshire: Framework biến Claude Code và Codex thành một AI Investment Research Team
+
+Nếu bạn từng hỏi AI một câu như: "Có nên đầu tư vào Nvidia không?" thì bạn sẽ thấy AI thường đưa ra một bài phân tích khá cân bằng. AI sẽ nói về cả ưu điểm lẫn rủi ro, sau đó kết thúc bằng lời nhắc rằng quyết định đầu tư thuộc về bạn.
+
+AI Berkshire được tạo ra để giải quyết chính vấn đề này.
+
+Đây là một dự án open-source trên GitHub, không xây dựng một AI model mới mà xây dựng một Investment Research Framework dành cho Claude Code và Codex. Thay vì để một AI trả lời toàn bộ câu hỏi, framework này chia công việc thành nhiều AI Agents với các vai trò khác nhau, sau đó tổng hợp thành một báo cáo hoàn chỉnh.
+
+Điểm thú vị là framework lấy tư duy đầu tư của bốn nhà đầu tư nổi tiếng gồm Warren Buffett, Charlie Munger, Duan Yongping và Li Lu rồi chuyển thành một workflow để AI có thể làm theo.
+
+Ví dụ, một Agent sẽ tập trung phân tích Business Model và Moat. Một Agent khác đánh giá Financial Metrics và Valuation. Agent tiếp theo tìm những rủi ro và phản biện lại toàn bộ luận điểm, trong khi Agent cuối cùng đánh giá Long-term Trend và Industry. Sau khi hoàn thành, một Team Lead Agent sẽ tổng hợp tất cả kết quả thành báo cáo cuối cùng.
+
+Cách làm này giúp AI không còn chỉ đưa ra một câu trả lời duy nhất mà tạo ra nhiều góc nhìn trước khi đưa ra kết luận.
+
+Một điểm khác biệt nữa là AI Berkshire buộc AI phải đưa ra quyết định rõ ràng. Thay vì kết thúc bằng những câu quen thuộc như "hãy tự cân nhắc trước khi đầu tư", framework sẽ đưa ra khuyến nghị cụ thể về mức giá phù hợp, mức độ an toàn, chiến lược dành cho nhà đầu tư Aggressive, Balanced hoặc Conservative và giải thích vì sao đưa ra quyết định đó.
+
+Ngoài workflow Multi-Agent, dự án còn cung cấp hơn 18 Skills phục vụ nhiều tình huống khác nhau. Người dùng có thể nghiên cứu doanh nghiệp, đọc Financial Report, phân tích Industry, đánh giá Portfolio, theo dõi Investment Thesis hoặc tìm nguyên nhân khiến giá cổ phiếu biến động chỉ bằng một câu lệnh.
+
+Một điểm đáng chú ý khác là framework rất chú trọng đến Data Accuracy. Thay vì để LLM tự tính toán, AI Berkshire bổ sung các công cụ để verify Market Cap, PE, PB, ROE, thực hiện Cross Validation giữa nhiều nguồn dữ liệu và tính toán bằng Python Decimal để giảm sai số khi xử lý Financial Data.
+
+Framework hiện hỗ trợ cả Claude Code và OpenAI Codex. Sau khi cài đặt, người dùng chỉ cần gọi các Skills như `investment-research`, `industry-research` hoặc `news-pulse`, phần còn lại sẽ được workflow xử lý tự động.
+
+Theo tác giả, framework này cũng đã được sử dụng trong thực tế. Dữ liệu được công bố cho thấy danh mục đầu tư đạt lợi nhuận 69.29% trong năm 2024 và 66.38% tính từ đầu năm 2025, vượt nhiều chỉ số lớn như S&P 500, Nasdaq và Hang Seng Index. Tất nhiên, tác giả cũng nhấn mạnh rằng past performance không đảm bảo kết quả trong tương lai.
+
+Điều làm AI Berkshire trở nên đáng chú ý không phải vì nó tạo ra một AI model mới, mà vì nó cho thấy một hướng phát triển khác của AI. Thay vì chỉ tăng kích thước model, dự án tập trung xây dựng một workflow có cấu trúc, kết hợp Multi-Agent Collaboration, Structured Reasoning, Financial Verification và Value Investing Methodology để AI có thể tạo ra những báo cáo nghiên cứu chuyên sâu và có quy trình rõ ràng.
+
+Đây cũng là một ví dụ thú vị cho xu hướng Agentic AI, nơi giá trị không chỉ đến từ mô hình mạnh hơn mà còn đến từ cách tổ chức nhiều AI Agents để cùng giải quyết một bài toán phức tạp.
+
 
 
 
